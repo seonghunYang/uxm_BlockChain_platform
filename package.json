@@ -22,7 +22,7 @@
     "gijgo": "^1.9.13",
     "http-errors": "~1.6.3",
     "method-override": "^2.3.10",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "mongodb": "^3.3.4",
     "mongodb-core": "^3.2.7",
     "mongoose": "^5.7.11",
